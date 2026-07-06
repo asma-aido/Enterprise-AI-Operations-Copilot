@@ -11,6 +11,7 @@ Employees spend too much time searching for:
 - PDF documents
 - Internal request workflows
 - Business forms
+  
 --->As a result, routine tasks become slow and employees often struggle to find the right information.
 
 # Solution
